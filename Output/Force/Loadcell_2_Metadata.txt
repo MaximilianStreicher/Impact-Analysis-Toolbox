@@ -1,0 +1,7 @@
+original file:	#bi_01_5_Krm2x-1kHz.asc
+sample frequency [Hz]:	1000
+high-pass filter [Hz]:	0
+low-pass filter [Hz]:	25
+bandwidth filter [Hz]:	1.32        4.01-1.37        4.12
+filter design:	butterworth
+force unit:	kN

@@ -1,0 +1,7 @@
+original file:	#bi_01_5_DR00x15-1kHz.asc
+sample frequency [Hz]:	1000
+high-pass filter [Hz]:	0
+low-pass filter [Hz]:	60
+bandwidth filter [Hz]:	49-51
+filter design:	butterworth
+pressure unit:	bar

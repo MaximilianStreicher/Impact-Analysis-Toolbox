@@ -1,0 +1,5 @@
+original file:	#bi_01_5_DR00x15-1kHz.asc
+high pass threshold [kN]:	0.06
+min. difference in magnitude between 2 consecutive impacts [kN/m]:	0.06
+min. time difference between 2 detected impacts [s]:	2
+force unit:	kN/m

@@ -1,0 +1,5 @@
+original file:	#bi_01_5_Krm2x-1kHz.asc
+high pass threshold [kN]:	0.1
+min. difference in magnitude between 2 consecutive impacts [kN/m]:	0.1
+min. time difference between 2 detected impacts [s]:	1.9
+force unit:	kN/m
